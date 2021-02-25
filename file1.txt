@@ -3,3 +3,4 @@ Hello world!
 Good bye!
 Good morning!
 Line from user1
+Good evening! (from branch master)
