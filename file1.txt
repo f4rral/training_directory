@@ -1,6 +1,6 @@
 Hello world!
 12345
 Good evening! (from branchgit  master)
-Another line from user1
+Line from user2
 Line from user1
 Good evening! (from branch master)
