@@ -1,6 +1,6 @@
 Hello world!
 12345
-Good bye!
+Good morning! (from branch add-feature1)
 Good morning!
 Line from user1
 Good evening! (from branch master)
